@@ -1,5 +1,5 @@
 # POOTIS ROLLOUT
-## Team Fortress 2 Server Deployment and Managment
+## Team Fortress 2 Server Deployment and Management
 
                       
 
